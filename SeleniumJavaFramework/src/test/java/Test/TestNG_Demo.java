@@ -46,7 +46,7 @@ public class TestNG_Demo {
 		driver.get("http://google.com/");
 		
 		WebElement textBox = driver.findElement(By.name("q"));
-		textBox.sendKeys("Automation Step by Step");
+		textBox.sendKeys("Test Automation");
 
 		
 		driver.findElement(By.name("btnK")).sendKeys(Keys.RETURN);
