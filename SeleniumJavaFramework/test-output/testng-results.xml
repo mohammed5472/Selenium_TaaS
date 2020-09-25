@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16236" started-at="2020-09-24T22:26:15Z" finished-at="2020-09-24T22:26:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16236" started-at="2020-09-24T22:26:15Z" finished-at="2020-09-24T22:26:31Z">
+      <class name="Test.TestNG_Demo">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:Test.TestNG_Demo@62ee68d8]" name="setUpTest" is-config="true" duration-ms="9863" started-at="2020-09-24T22:26:15Z" finished-at="2020-09-24T22:26:25Z">
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:Test.TestNG_Demo@62ee68d8]" name="GoogleSearch" duration-ms="2130" started-at="2020-09-24T22:26:25Z" finished-at="2020-09-24T22:26:27Z">
+        </test-method> <!-- GoogleSearch -->
+        <test-method status="PASS" signature="tearaDown()[pri:0, instance:Test.TestNG_Demo@62ee68d8]" name="tearaDown" is-config="true" duration-ms="4224" started-at="2020-09-24T22:26:27Z" finished-at="2020-09-24T22:26:31Z">
+        </test-method> <!-- tearaDown -->
+      </class> <!-- Test.TestNG_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
